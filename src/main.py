@@ -1,6 +1,10 @@
 def hello():
-  print("hello")
+    print("hello")
+
+
 def anotherfunction():
-      print("second function")
+    print("second function")
+
+
 hello()
 anotherfunction()
